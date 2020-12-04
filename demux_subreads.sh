@@ -15,4 +15,4 @@ output_dir=$4 # no final slash in directory.
 
 #lima [options] <INPUT.bam|xml|fa|fq|gz> <BARCODES.fa> <OUTPUT.bam|xml|fa|fq|gz>
 
-lima --split-bam-named --same --min-length $len_filter $multiplex_bam $barcodes $output_dir/sr.xml
+lima --split-bam-named --same --min-length $len_filter $multiplex_bam $barcodes $output_dir/s1_1.subreadset.xml

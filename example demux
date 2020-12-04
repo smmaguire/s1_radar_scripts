@@ -1,0 +1,1 @@
+qsub demux_subreads.sh 4000 /mnt/pacbio/smrtlink/data/runs/54025/smm_pb2/r54025_20201201_234357/3_C01/m54025_201202_204229.subreadset.xml /mnt/home/smaguire/work/s1_radar_seq/barcode_files/s1_pb1.fasta /mnt/home/smaguire/work/s1_radar_seq/demux_output/s1_pb1_subreads
