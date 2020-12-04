@@ -1,0 +1,1 @@
+qsub demux_subreads.sh 4000 XXXX.bam /mnt/home/smaguire/work/s1_radar_seq/barcode_files/s1_pb1.fasta /mnt/home/smaguire/work/s1_radar_seq/demux_output/s1_pb1_subreads
